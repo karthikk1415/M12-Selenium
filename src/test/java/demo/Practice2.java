@@ -6,5 +6,6 @@ public class Practice2
 	{
 		System.out.println("Nikhil is bad boy");
 		System.out.println("Nikhil committed");
+		System.out.println("From FE");
 	}
 }
