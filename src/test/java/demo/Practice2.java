@@ -6,7 +6,7 @@ public class Practice2
 	{
 		System.out.println("Nikhil is bad boy");
 		System.out.println("Nikhil committed");
-		System.out.println("FE");
 		System.out.println("All done  and Good");
+		System.out.println("FE");
 	}
 }
